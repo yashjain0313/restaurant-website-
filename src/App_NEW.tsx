@@ -1,22 +1,17 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   MapPin,
   Phone,
   Clock,
-  Star,
   Menu,
   X,
-  Calendar,
   Users,
   ChefHat,
-  Wine,
   Heart,
   Instagram,
   Facebook,
   Twitter,
   Award,
-  Utensils,
-  Coffee,
 } from "lucide-react";
 
 interface MenuItem {
